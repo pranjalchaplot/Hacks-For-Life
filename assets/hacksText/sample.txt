@@ -1,0 +1,1 @@
+Hitting the Spacebar scrolls down a web page; hitting the Spacebar + Shift lets you scroll back up

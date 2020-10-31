@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426584203931",
+    "firebase_url": "https://hacks-for-life.firebaseio.com",
+    "project_id": "hacks-for-life",
+    "storage_bucket": "hacks-for-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426584203931:android:185325f1565ba9f976dc3e",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426584203931-212785v4tr27r88uksj303qljoettovu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWlgdp-yrU79SAp5j0zyPKJknDU2bejQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426584203931-212785v4tr27r88uksj303qljoettovu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

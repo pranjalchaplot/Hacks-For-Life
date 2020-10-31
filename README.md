@@ -1,4 +1,4 @@
-# main
+# Hacks For Life
 
 A new Flutter project.
 
